@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# Compiled output
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Gradle wrapper (keep jar/wrapper if you add it later)
+# !gradle/wrapper/gradle-wrapper.jar
+
+# NeoForge / Minecraft run dirs and logs
+run/
+runs/
+logs/
+crash-reports/
+saves/
+config/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
